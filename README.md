@@ -3,8 +3,8 @@
 ## Requested class resources
 
 ### How to Undo Anything
-- Video of class by Joshua Wehner: 
- - https://vimeo.com/118046222 
+- Video of class by Joshua Wehner:
+ - https://vimeo.com/118046222
  - Password: `training`
 - Blog post: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
 
@@ -17,3 +17,5 @@
 This: `[Simple Link](docs/sample-file-link.md)`
 
 Becomes this: [Simple Link](docs/sample-file-link.md)
+
+Made some changes here to practice collaboration.
