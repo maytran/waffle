@@ -1,5 +1,5 @@
 # Welcome to Advanced Git and GitHub
-
+This is a new line :)
 ## Requested class resources
 
 ### How to Undo Anything
