@@ -29,3 +29,10 @@ When the CogE Exploded
 The SE emoted
 Methinks we may have a problem
 
+One day while merging in AccuRev
+I was struck by some message in red
+When I clicked on OK
+My merge went away
+And I was left with a feeling of dread
+
+
