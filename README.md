@@ -1,5 +1,7 @@
 # Welcome to Advanced Git and GitHub
 
+This is a new line from MT.
+
 ## Requested class resources
 
 ### How to Undo Anything
