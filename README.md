@@ -8,3 +8,4 @@ Please feel free to ask for new ones as well.
  - https://vimeo.com/118046222 
  - Password: `training`
 - Blog post: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+new line
