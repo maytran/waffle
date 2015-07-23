@@ -19,3 +19,5 @@ This: `[Simple Link](docs/sample-file-link.md)`
 Becomes this: [Simple Link](docs/sample-file-link.md)
 
 More changes from the Gang of Four.
+
+This line is added from May.
