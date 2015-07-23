@@ -1,4 +1,4 @@
-# Welcome to Advanced Git and GitHub
+# Welcome to Advanced Git and GitHub!
 
 ## Requested class resources
 
@@ -14,6 +14,7 @@
  [ ] Whipped cream
  [ ] Wasabi
  [ ] Honey
+ [ ] Kepler-452b
 
 ### Supported file types
 
