@@ -17,3 +17,10 @@ This is a new line :)
 This: `[Simple Link](docs/sample-file-link.md)`
 
 Becomes this: [Simple Link](docs/sample-file-link.md)
+
+### Links for API, Webhooks and Integrations
+
+- [GitHub Developer Documentation](https://developer.github.com/v3/)
+- [GitHub Webhooks](https://developer.github.com/webhooks/)
+- [Blog post from GitHub Engineering on how we do branches and deploys](http://githubengineering.com/deploying-branches-to-github-com/)
+
