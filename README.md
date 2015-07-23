@@ -1,6 +1,6 @@
 # Welcome to Advanced Git and GitHub
 
-This is a new line from MT.
+I am doing something This is a new line from MT.
 
 ## Requested class resources
 
