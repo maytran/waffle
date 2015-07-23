@@ -23,5 +23,5 @@ This: `[Simple Link](docs/sample-file-link.md)`
 Becomes this: [Simple Link](docs/sample-file-link.md)
 thumbs up
 
-More changes from the Gang of Four.
+More changes from the Gang of Four, plus more changes.
 
