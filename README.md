@@ -2,7 +2,7 @@
 line added by nicole
 ## Requested class resources
 Luis added this line...This line has been changed.
-
+Nicole added this line next.
 
 ### How to Undo Anything
 - Video of class by Joshua Wehner: 
