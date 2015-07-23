@@ -1,5 +1,5 @@
 # Welcome to Advanced Git and GitHub
-
+new thumbs
 ## Requested class resources
 
 ### How to Undo Anything
@@ -7,6 +7,8 @@
  - https://vimeo.com/118046222 
  - Password: `training`
 - Blog post: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+
+way thumbs
 
 ### Supported file types
 
@@ -23,4 +25,3 @@ thumbs up
 
 More changes from the Gang of Four.
 
-Josh is modifying this!
