@@ -17,3 +17,12 @@
 This: `[Simple Link](docs/sample-file-link.md)`
 
 Becomes this: [Simple Link](docs/sample-file-link.md)
+
+A Limerick:
+
+There once was a Ground Data System
+That had a small problem with CM
+When the CogE Exploded
+The SE emoted
+Methinks we may have a problem
+
