@@ -7,7 +7,7 @@ new thumbs
  - https://vimeo.com/118046222 
  - Password: `training`
 - Blog post: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
-
+thumbs
 way thumbs
 
 ### Supported file types
