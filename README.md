@@ -7,3 +7,13 @@
  - https://vimeo.com/118046222 
  - Password: `training`
 - Blog post: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+
+### Supported file types
+
+- [Help Documentation](https://help.github.com/categories/working-with-non-code-files/)
+
+### Example Syntax for simple links
+
+This: `[Simple Link](docs/sample-file-link.md)`
+
+Becomes this: [Simple Link](docs/sample-file-link.md)
