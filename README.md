@@ -1,5 +1,5 @@
-# Welcome to Advanced Git and GitHub
-This is a new line :)
+# Welcome to Advanced Git and GitHuba change by rich
+This is a new line :) another change
 ## Requested class resources
 
 add in new line1
