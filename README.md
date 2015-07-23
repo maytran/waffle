@@ -1,6 +1,7 @@
 # Welcome to Advanced Git and GitHub
 
 ## Requested class resources
+Please feel free to ask for new ones as well.
 
 ### How to Undo Anything
 - Video of class by Joshua Wehner: 
