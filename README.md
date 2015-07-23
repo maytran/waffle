@@ -9,9 +9,10 @@
 - Blog post: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
 
 ### Eggo Waffle Accessories
-- Syrup (strawberry, hazelnut)
-- Chocolate chips!
-- Whipped cream
+[] Syrup (strawberry, hazelnut)
+[] Chocolate chips!
+[] Whipped cream
+[] Wasabi
 
 ### Supported file types
 
