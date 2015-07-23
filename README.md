@@ -18,5 +18,5 @@ This: `[Simple Link](docs/sample-file-link.md)`
 
 Becomes this: [Simple Link](docs/sample-file-link.md)
 
-Made some changes here to practice collaboration.
+Made some changes here to practice collaboration. Making additional changes to create conflict.
 Kirk added one more line so our files are different
