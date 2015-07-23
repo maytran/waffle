@@ -12,12 +12,18 @@
 
 - [Help Documentation](https://help.github.com/categories/working-with-non-code-files/)
 
+Needs more thumbs up.
+
 ### Example Syntax for simple links
 
 This: `[Simple Link](docs/sample-file-link.md)`
 
 Becomes this: [Simple Link](docs/sample-file-link.md)
+thumbs up
+
+More changes from the Gang of Four, plus more changes.
 
 More changes from the Gang of Four.
 
 This line is added from May.
+Josh is modifying this!
