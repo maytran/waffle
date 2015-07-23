@@ -1,4 +1,4 @@
-# Welcome to Advanced Git and GitHub
+# New Title
 
 ## Requested class resources
 Please feel free to ask for new ones as well.
