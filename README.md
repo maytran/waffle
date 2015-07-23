@@ -15,7 +15,7 @@ way thumbs
 - [Help Documentation](https://help.github.com/categories/working-with-non-code-files/)
 
 Needs more thumbs up.
-
+ok
 ### Example Syntax for simple links
 
 This: `[Simple Link](docs/sample-file-link.md)`
